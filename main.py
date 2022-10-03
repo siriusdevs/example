@@ -63,3 +63,4 @@ def work(cur_date: date, students: List[Student]) -> None:
 
 if __name__ == '__main__':
     work(date.today(), [Student(name) for name in group])
+    # Bezborodov hitrets
