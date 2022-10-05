@@ -1,1 +1,1 @@
-This repo's only use is for you to see the example of working with your own repo. Keep in mind, that .gitignore file must be also included in .gitignore itself. I only uploaded it for you to see.
+This repo's only use is for you to see the example of working with your own repo. Keep in mind, that .gitignore file must be also included in .gitignore itself. I only uploaded it for you to see how it works.
